@@ -34,4 +34,6 @@ match opcion:
         moneda = "ARS"
     case _:
         print("Opción no válida")
+if resultado is not None:
+    print("Convertido:", resultado, moneda)
         resultado = None
