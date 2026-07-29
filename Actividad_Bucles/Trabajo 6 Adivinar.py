@@ -10,3 +10,4 @@ while True:
         print("¡Correcto! Era", secreto)
         break
 print("Juego terminado. El número era", secreto)
+#COMMIT
