@@ -6,3 +6,4 @@ while True:
     if i > N:
         break
 print("Secuencia de cuadrados hasta", N)
+#COMMIT
